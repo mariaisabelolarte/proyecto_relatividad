@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Proyecto_DiscoAcrecion_RG2026_1.ipynb (entregado)
+- Proyecto_DiscoAcrecion_RG2026_1.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: inicio en la fecha límite exacta, buen número de commit
 
 ## Retroalimentación
 
-- Archivo revisado: Proyecto_DiscoAcrecion_RG2026_1.ipynb
+- Archivo revisado: Proyecto_DiscoAcrecion_RG2026_1.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -41,13 +41,22 @@ Interpretación breve: inicio en la fecha límite exacta, buen número de commit
 
 ### Aspectos por mejorar
 
-- El notebook no tiene **sección de conclusiones**. Se recomienda agregar una sección final que responda directamente al objetivo del proyecto: ¿qué se simuló en cada parte?, ¿qué se aprendió?, ¿qué limitaciones tienen los modelos usados?
-- El enunciado pide **producir una imagen del disco** que integre los efectos calculados. Las cinco secciones quedan desconectadas entre sí; el paso que falta es articularlas en una figura síntesis que muestre el disco con corrimiento espectral, las órbitas relativistas y las trayectorias de fotones en un mismo marco.
-- Algunas celdas de código —en particular las que construyen animaciones y figuras interactivas— mezclan lógica de cálculo con lógica de graficación. Conviene separar ambas responsabilidades: primero calcular y guardar los datos en variables, luego graficar en una celda aparte, cada una con su texto explicativo.
-- Hay algunas celdas de código sin celda de texto anterior. Aunque sean celdas de apoyo (parámetros, condiciones iniciales), vale la pena antecederlas con una línea que explique qué se está definiendo y por qué se eligieron esos valores.
+- El notebook no tiene **sección de conclusiones**. Se recomienda agregar una sección final que responda directamente al objetivo del proyecto: ¿qué se simuló en cada parte?, ¿qué se aprendió?, ¿qué limitaciones tienen los modelos usados? [Mejorado]
+- El enunciado pide **producir una imagen del disco** que integre los efectos calculados. Las cinco secciones quedan desconectadas entre sí; el paso que falta es articularlas en una figura síntesis que muestre el disco con corrimiento espectral, las órbitas relativistas y las trayectorias de fotones en un mismo marco. [Mejorado]
+- Algunas celdas de código —en particular las que construyen animaciones y figuras interactivas— mezclan lógica de cálculo con lógica de graficación. Conviene separar ambas responsabilidades: primero calcular y guardar los datos en variables, luego graficar en una celda aparte, cada una con su texto explicativo. [Mejorado]
+- Hay algunas celdas de código sin celda de texto anterior. Aunque sean celdas de apoyo (parámetros, condiciones iniciales), vale la pena antecederlas con una línea que explique qué se está definiendo y por qué se eligieron esos valores. [Mejorado]
 
 ### Valoración global
 
 - Trabajo ambicioso y técnicamente sólido, con buen nivel de apropiación de los temas del curso. Los dos puntos más importantes para completar el proyecto son la imagen síntesis del disco y la sección de conclusiones.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora orientadas a completar el objetivo central del proyecto (imagen del disco) y fortalecer la comunicación científica del informe.
+- Muy buen trabajo, muy completo.
 
+## Valoración final
+
+- Mejoras implementadas: 5,00 (70%)
+- Aplicación al repositorio: 4,25 (10%)
+- Aspectos positivos: 4,80 (10%)
+- Valoración global: 4,80 (10%)
+
+**Nota final (redondeada)**: 4,9
